@@ -1,0 +1,46 @@
+.container-fluid{
+  background-color: #072A3F;
+  color: white;
+}
+
+.nav-item{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.nav-link{
+  color: white;
+  text-align: center;
+  color: #072A3F;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.nav-link:hover{
+  color: #072A3F;
+  background-color: white;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.slogan{
+  font-size: 20px;
+}
+
+.adrresse{
+  font-size: 20px;
+}
+.sociaux{
+  font-size: 30px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.sociaux-icons{
+  margin-right:5px;
+}
+
+
+
+
+

@@ -1,0 +1,28 @@
+
+header
+{
+  background-color: #07A838;
+  height: 100px;
+}
+
+.img{
+  width: 150px;
+  height: 50px;
+  border-radius: 5px;
+  margin-left: 30px;
+}
+
+.nav li a{
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+text-transform: uppercase;
+color: white;
+margin-right: 20px;
+}
+
+.nav li a:hover{
+color:green;
+background-color: white;
+border-radius: 5px;
+}

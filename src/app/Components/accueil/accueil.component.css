@@ -1,0 +1,50 @@
+.accueil-info{
+  background-color: rgb(228, 228, 240) ;
+  margin-top:auto;
+}
+
+.talent-image
+{
+  border-radius: 5px;
+}
+
+.titre-accueil{
+ color:#072A3F;
+ text-transform: uppercase;
+ font-size: 35px;
+}
+
+.text-accueil{
+  font-size: 25px;
+}
+
+.btn-lg{
+  background-color: #072A3F;
+}
+
+.btn-lg:hover{
+  color: #ebedef;
+  background-color: #024d19;
+}
+
+
+.titre-talent{
+  background-color: #072A3F;
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.qualifications{
+  background-color: #072A3F;
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.talent-metier{
+  font-size: 25px;
+}
+

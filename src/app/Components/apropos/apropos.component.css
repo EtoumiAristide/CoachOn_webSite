@@ -1,0 +1,30 @@
+.coach-apropos{
+  font-size: 25px;
+}
+
+.titre-apropos
+{
+  color: #072A3F;
+  font-size: 40px;
+  font-weight: bold;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.text-propos{
+  font-size: 20px;
+  text-justify: auto;
+  color: #072A3F;
+}
+
+.card-img-top{
+  width: 1280;
+  height: 753;
+}
+
+.qualifications{
+  background-color: #072A3F;
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+}
