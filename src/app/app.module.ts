@@ -9,6 +9,8 @@ import { ContactComponent } from './Components/contact/contact.component';
 import { FooterComponent } from './Components/sharepages/footer/footer.component';
 import { NavbarComponent } from './Components/sharepages/navbar/navbar.component';
 import { InfosComponent } from './Components/infos/infos.component';
+import { HttpClientModule } from '@angular/common/http';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -22,7 +24,9 @@ import { InfosComponent } from './Components/infos/infos.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,8 +1,10 @@
 import { NgModule } from '@angular/core';
+import { FormsModule } from '@angular/forms';
 import { RouterModule, Routes } from '@angular/router';
 import { AccueilComponent } from './Components/accueil/accueil.component';
 import { AproposComponent } from './Components/apropos/apropos.component';
 import { ContactComponent } from './Components/contact/contact.component';
+
 
 const routes: Routes = [
   {path:'',component:AccueilComponent},
