@@ -28,8 +28,14 @@
     <input type="text" class="form-control" id="email" name="email"  [(ngModel)]="visiteurs.email" required>
   </div>
   <div class="col-md-6">
-    <label for="lieu_habitation" class="form-label">LIEU D'HABITATION</label>
-    <input type="text" class="form-control" id="lieuhabitation" name="lieuhabitation" [(ngModel)]="visiteurs.lieuhabitation" required>
+    <label for="lieu_habitation" class="form-label">TYPE</label>
+    <select class="form-select" name="" id="">
+      <option class="form-control" value="">DEVELOPER FULL STACK</option>
+      <option class="form-control" value="">BUSINESS DEVELOPER</option>
+      <option class="form-control" value="">RECRUTEUR</option>
+      <option class="form-control" value="">VISITEUR</option>
+    </select>
+
   </div>
 
   <div class="col-md-12">
